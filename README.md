@@ -43,3 +43,5 @@ public class Testpage {
 		driver.findElement(By.xpath("//*[@id=\"P50B2692_246\"]")).click();
 	}
 }
+
+done
